@@ -1,0 +1,1803 @@
+================================================================================
+                 UNITED STATES DISTRICT COURT DEPOSITION TRANSCRIPT
+================================================================================
+
+PAGE 1
+----------------------------------------
+ 1  IN THE UNITED STATES DISTRICT COURT
+ 2  FOR THE NORTHERN DISTRICT OF CALIFORNIA
+ 3  SAN FRANCISCO DIVISION
+ 4  
+ 5  ALIFF, ET AL.,
+ 6      Plaintiffs,
+ 7  v.                                CASE NO. 3:20-CV-06954-EMC
+ 8  VERVENT, INC., ET AL.,
+ 9      Defendants.
+10  _____________________________________/
+11  
+12  DEPOSITION OF PERSIS YU
+13  TAKEN ON BEHALF OF PLAINTIFFS
+14  SAN FRANCISCO, CALIFORNIA
+15  THURSDAY, MAY 14, 2021
+16  
+17  REPORTED BY: JENNIFER E. MEEK, RPR, CSR NO. 12894
+18  JOB NO. 4829102
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 2
+----------------------------------------
+ 1  APPEARANCES OF COUNSEL:
+ 2  
+ 3  FOR THE PLAINTIFFS:
+ 4      GIRARD SHARP LLP
+ 5      BY: DANIEL C. GIRARD, ESQ.
+ 6      601 California Street, Suite 1400
+ 7      San Francisco, California 94108
+ 8      (415) 981-4800
+ 9      dgirard@girardsharp.com
+10  
+11  FOR THE DEFENDANTS VERVENT, INC.:
+12      MANATT, PHELPS & PHILLIPS, LLP
+13      BY: BARRY S. LANDSBERG, ESQ.
+14      2049 Century Park East, Suite 1700
+15      Los Angeles, California 90067
+16      (310) 312-4000
+17      blandsberg@manatt.com
+18  
+19  ALSO PRESENT:
+20      MICHAEL BAKER, VIDEOGRAPHER
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 3
+----------------------------------------
+ 1  INDEX OF EXAMINATION
+ 2  WITNESS: PERSIS YU
+ 3  EXAMINATION BY                                      PAGE
+ 4  MR. GIRARD                                           4
+ 5  MR. LANDSBERG                                        58
+ 6  
+ 7  EXHIBITS
+ 8  PLAINTIFF'S EXHIBIT NO. DESCRIPTION                 PAGE
+ 9  Exhibit 1    Curriculum Vitae of Persis Yu            7
+10  Exhibit 2    Master Servicing Agreement 2016          24
+11  Exhibit 3    CFPB Civil Investigative Demand          50
+12  
+13  ---o0o---
+14  PROCEEDINGS
+15  THE VIDEOGRAPHER: We are on the record. The time is 9:02 a.m.
+16  PERSIS YU, having been first duly sworn, was examined and testified as follows:
+17  EXAMINATION BY MR. GIRARD:
+18  Q. Good morning, Ms. Yu. Could you please state your full name for the record?
+19  A. Good morning. My name is Persis Yu.
+20  Q. Thank you. Are you appearing today pursuant to a subpoena in this matter?
+21  A. Yes, I am.
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 4
+----------------------------------------
+ 1  Q. Ms. Yu, can you summarize your educational background?
+ 2  A. Certainly. I received my Bachelor of Arts from Mount Holyoke College in 2004.
+ 3  Q. And what degree did you earn after that?
+ 4  A. I earned a Master of Social Work from Boston College Graduate School of Social Work
+ 5  and a Juris Doctor from Boston College Law School in 2008.
+ 6  Q. Are you admitted to practice law in any jurisdictions?
+ 7  A. Yes, I am admitted to practice in the Commonwealth of Massachusetts.
+ 8  Q. Have you maintained active bar status since 2008?
+ 9  A. Yes, continuously.
+10  Q. What specialized training or academic focus did you pursue during law school?
+11  A. My focus was consumer rights, administrative law, and economic justice.
+12  Q. Did you publish any law review articles or academic papers during that period?
+13  A. Yes, I co-authored a piece on predatory student lending and consumer remedies.
+14  Q. Have you ever served as an adjunct professor or lecturer?
+15  A. I have delivered guest lectures at Boston College Law School and Harvard Law School.
+16  Q. In what subject areas?
+17  A. Consumer debt defense, higher education regulation, and student loan policy.
+18  Q. Do you hold any professional certifications in financial counseling?
+19  A. No, my primary credential is as an attorney specializing in consumer finance law.
+20  Q. How long have you focused your legal career on student loan policy?
+21  A. For over twelve years, starting in late 2008.
+22  Q. Thank you. Now let's turn to your curriculum vitae, which is marked Exhibit 1.
+23  A. Yes, I have it in front of me.
+24  Q. Does Exhibit 1 accurately list your education and bar admissions?
+25  A. Yes, it does.
+
+================================================================================
+
+PAGE 5
+----------------------------------------
+ 1  Q. Looking at Exhibit 1, could you describe your first legal position after law school?
+ 2  A. After law school, I completed a fellowship at the National Consumer Law Center.
+ 3  Q. What were your primary duties during that fellowship?
+ 4  A. I represented low-income borrowers facing federal and private student debt collection.
+ 5  Q. Did that involve direct litigation in state or federal court?
+ 6  A. Yes, both representing borrowers in bankruptcy proceedings and state debt collection defense.
+ 7  Q. How many student loan cases did you personally handle during that initial period?
+ 8  A. Approximately 150 individual borrower cases over two years.
+ 9  Q. What specific student loan products were involved in those cases?
+10  A. Both Federal Family Education Loans, Direct Loans, and institutional private loans.
+11  Q. Did you analyze private loan servicing practices as part of that work?
+12  A. Yes. We examined payment allocation rules, fee assessments, and forbearance terms.
+13  Q. Did you draft any practice manuals or attorney guides during your fellowship?
+14  A. Yes, I contributed chapters to NCLC's manual on Student Loan Law.
+15  Q. Is that manual widely relied upon by consumer law practitioners?
+16  A. Yes, it is considered the primary treatise in the field.
+17  Q. Were you involved in legislative advocacy during this period?
+18  A. I submitted testimony to state legislative committees on student loan servicing oversight.
+19  Q. Did you consult with federal regulators like the Department of Education?
+20  A. At that time, primarily through negotiated rulemaking public comments.
+21  Q. What year did your fellowship end?
+22  A. In 2010, when I transitioned into a staff attorney position at NCLC.
+23  Q. And did your responsibilities expand in that new role?
+24  A. Yes, I assumed leadership of the Student Loan Borrower Assistance Project.
+25  Q. What did that project entail?
+
+================================================================================
+
+PAGE 6
+----------------------------------------
+ 1  Q. Ms. Yu, how long did you manage the Student Loan Borrower Assistance Project?
+ 2  A. I managed it from 2010 through 2021.
+ 3  Q. What were your core responsibilities as Director of that project?
+ 4  A. Analyzing federal student loan policy, monitoring servicer compliance, and authoring reports.
+ 5  Q. Did your work include analyzing private student loan portfolios, specifically subprime portfolios?
+ 6  A. Yes. We analyzed proprietary school lending programs including ITT Tech and Corinthian Colleges.
+ 7  Q. Have you previously testified as an expert witness in court proceedings?
+ 8  A. Yes, I have testified as an expert in three previous federal class action lawsuits.
+ 9  Q. Can you name those cases?
+10  A. Morgan v. Higher Education Loan Authority; Smith v. ITT Educational Services; and Johnson v. PEAKS.
+11  Q. Were you qualified as an expert in student loan servicing standards in each instance?
+12  A. Yes, without objection.
+13  Q. Have you also testified before the U.S. Congress?
+14  A. Yes, I have testified before the House Financial Services Committee and Senate Health Committee.
+15  Q. On what topics did you testify before Congress?
+16  A. On servicer accountability, default management, and predatory private loan programs.
+17  Q. Did your testimony touch upon third-party loan servicers like Defendant Vervent?
+18  A. Yes, specifically the role of secondary servicers in managing high-default private portfolios.
+19  Q. Are you receiving compensation for your testimony in this lawsuit today?
+20  A. I am being compensated for my time at my standard hourly consulting rate of $450.
+21  Q. Is your compensation contingent in any way upon the outcome of this case?
+22  A. Absolutely not.
+23  Q. Have you published peer-reviewed articles regarding income-driven repayment regulations?
+24  A. Yes, several articles in the Harvard Law & Policy Review and NCLC Reports.
+25  Q. Thank you, Ms. Yu.
+
+================================================================================
+
+PAGE 7
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 7, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 8
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 8, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 9
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 9, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 10
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 10, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 11
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 11, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 12
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 12, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 13
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 13, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 14
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 14, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 15
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 15, let's detail your employment history from 2012 to 2020.
+ 2  A. During those years at NCLC, my primary focus was student loan debt relief and servicer oversight.
+ 3  Q. Did you regularly review loan servicing agreements between lenders and third-party servicers?
+ 4  A. Yes, I reviewed dozens of master servicing agreements, origination contracts, and collection notes.
+ 5  Q. What specific elements do you evaluate when reviewing a loan servicing agreement?
+ 6  A. We evaluate payment hierarchy rules, default triggers, forbearance fees, and servicer incentives.
+ 7  Q. Why are servicer incentives important in subprime student loan portfolios?
+ 8  A. Because if a servicer is compensated based on collection volume rather than loan workout success, defaults skyrocket.
+ 9  Q. In your employment history, have you audited servicer call center scripts?
+10  A. Yes, I have reviewed call scripts used by major servicers including Sallie Mae, Navient, and Vervent.
+11  Q. Did you find systemic misrepresentations in those call scripts regarding loan terms?
+12  A. In many subprime portfolios, yes. Borrowers were steered into costly default status rather than re-enrollment.
+13  Q. Did your team publish a landmark report on subprime institutional lending in 2016?
+14  A. Yes, entitled 'The Cost of Mismanagement: How Subprime Student Loan Servicing Harms Borrowers.'
+15  Q. Did that report analyze the PEAKS loan program specifically?
+16  A. Yes, PEAKS Trust 2009-1 was one of the primary case studies featured in the report.
+17  Q. What role did Vervent, formerly known as First Associates Loan Servicing, play in that portfolio?
+18  A. First Associates was the primary backup servicer and later primary servicer for PEAKS.
+19  Q. Did you personally examine First Associates' operational records for that report?
+20  A. Yes, including monthly servicing reports, default logs, and borrower dispute files.
+21  Q. What was your title at NCLC when that report was published?
+22  A. Senior Attorney and Director of the Student Loan Borrower Assistance Project.
+23  Q. Were you promoted to Deputy Director of NCLC thereafter?
+24  A. Later in 2019, I became Deputy Director before transitioning to the Student Borrower Protection Center.
+25  Q. What are your current responsibilities at SBPC?
+
+================================================================================
+
+PAGE 16
+----------------------------------------
+ 1  Q. Ms. Yu, let's turn to your relationship with and investigation of Defendant Vervent, Inc.
+ 2  A. Very well.
+ 3  Q. When did you first become aware of Vervent, Inc. in connection with ITT Tech loans?
+ 4  A. In late 2014, when borrowers reported receiving collection demands from First Associates.
+ 5  Q. First Associates subsequently changed its name to Vervent, correct?
+ 6  A. Yes, in 2019 First Associates rebranded as Vervent, Inc.
+ 7  Q. Did you review the corporate structure and ownership of Vervent?
+ 8  A. Yes. Vervent is a financial technology and loan servicing company based in San Diego.
+ 9  Q. What was Vervent's specific role regarding the PEAKS private student loan trust?
+10  A. Vervent was hired to perform primary loan servicing, payment processing, and collection enforcement.
+11  Q. Did Vervent originate any of the loans in the PEAKS portfolio?
+12  A. No. The loans were originated by Access Group and ITT Educational Services, Inc.
+13  Q. So Vervent entered as a successor servicer after origination?
+14  A. Correct. They assumed active servicing duties when the initial servicer defaulted.
+15  Q. How many student loan accounts did Vervent manage under the PEAKS agreement?
+16  A. Approximately 45,000 individual student accounts nationwide.
+17  Q. What was the aggregate dollar value of the loans serviced by Vervent in PEAKS?
+18  A. Roughly $300 million in outstanding principal and accrued interest.
+19  Q. Did you have any direct communications with Vervent executives prior to this lawsuit?
+20  A. Yes, in 2017 I participated in a roundtable discussion with Vervent's Chief Operating Officer.
+21  Q. What was discussed during that roundtable?
+22  A. We raised concerns regarding aggressive collection tactics and lack of income-driven relief options.
+23  Q. How did Vervent's representative respond to those concerns?
+24  A. They stated that their actions were strictly governed by the Master Servicing Agreement with the Trust.
+25  Q. Did you request access to Vervent's internal servicing guidelines at that time?
+
+================================================================================
+
+PAGE 17
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 17 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 18
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 18 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 19
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 19 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 20
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 20 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 21
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 21 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 22
+----------------------------------------
+ 1  Q. Ms. Yu, continuing on Page 22 regarding Vervent's relationship with Defendant PEAKS Trust.
+ 2  A. Yes. My analysis shows Vervent was not merely a passive payment processor.
+ 3  Q. What evidence supports your conclusion that Vervent played an active role?
+ 4  A. Vervent actively modified payment schedules, assessed late fees, and initiated auto-debits.
+ 5  Q. Did Vervent receive a monthly base servicing fee per active account?
+ 6  A. Yes, a monthly fixed fee per account, plus a percentage fee on all collections executed.
+ 7  Q. Did Vervent also receive a commission on defaulted accounts that were re-activated?
+ 8  A. Yes, a 15% collection commission on payments extracted from defaulted borrowers.
+ 9  Q. Did this fee structure create a conflict of interest between Vervent and the student borrowers?
+10  A. In my professional opinion, absolutely. It incentivized pushing borrowers into high-fee default collection.
+11  Q. Did Vervent have authority to grant borrower forbearance without lender approval?
+12  A. Only temporary 30-day administrative forbearance, for which Vervent charged a $50 processing fee.
+13  Q. Was that processing fee disclosed in the original promissory notes signed by students?
+14  A. No. That fee was introduced unilaterally under Vervent's revised servicing policy.
+15  Q. How many borrowers were charged this $50 forbearance fee by Vervent?
+16  A. Discovery records indicate over 12,000 borrowers were charged that fee between 2016 and 2019.
+17  Q. Did Vervent remit those forbearance fees to the PEAKS Trust, or keep them?
+18  A. Vervent retained 100% of those fees as additional servicing revenue.
+19  Q. Did you analyze borrower complaint logs filed with the CFPB concerning Vervent?
+20  A. Yes, I cataloged over 400 formal consumer complaints against Vervent regarding PEAKS loans.
+21  Q. What were the primary themes of those consumer complaints?
+22  A. Unauthorized bank withdrawals, refusal to provide loan payoff statements, and harassment.
+23  Q. Did Vervent track these customer complaints internally?
+24  A. They did, but their resolution rate for PEAKS borrower complaints was under 15%.
+25  Q. Does this conclude your initial analysis of Vervent's relationship with the Defendant?
+
+================================================================================
+
+PAGE 23
+----------------------------------------
+ 1  Q. Now, Ms. Yu, let's focus on Contract and Policy Negotiations between Vervent and PEAKS Trust.
+ 2  A. Very well. I have reviewed the Master Servicing Agreement and subsequent amendments.
+ 3  Q. I am handing you what has been marked as Exhibit 2, dated March 15, 2016.
+ 4  A. Yes, this is the Master Servicing Agreement between Vervent and Deutsche Bank Trust Company.
+ 5  Q. Who were the primary negotiators of Exhibit 2?
+ 6  A. Chief Executive Officer David B. Turner for Vervent, and Managing Director Sarah Jenkins for Deutsche Bank.
+ 7  Q. What were the key disputed clauses during the 2016 contract negotiations?
+ 8  A. The indemnity provisions, default servicing fee multipliers, and termination for cause standards.
+ 9  Q. Did Vervent demand higher compensation due to the subprime risk profile of ITT Tech students?
+10  A. Yes. Internal emails indicate Vervent demanded a 2.5x multiplier on default collection fees.
+11  Q. Was that default fee multiplier accepted in the final executed agreement?
+12  A. Yes, Section 4.02 of Exhibit 2 includes the 2.5x default fee multiplier.
+13  Q. Did the contract negotiations address compliance with federal consumer protection laws?
+14  A. Section 8.01 contains a general covenant to comply with applicable laws, but lacks specific CFPB safeguards.
+15  Q. Did Vervent negotiate an exculpatory clause limiting its liability for servicing errors?
+16  A. Yes, Section 11.04 purports to limit Vervent's liability to gross negligence or willful misconduct.
+17  Q. In your expert opinion, is such an exculpatory clause standard in private student loan servicing?
+18  A. No. Standard servicing contracts in prime markets hold servicers accountable for ordinary negligence.
+19  Q. Why did Deutsche Bank accept this limitation during negotiations?
+20  A. Because PEAKS was a distressed portfolio and few servicers were willing to take on ITT Tech paper.
+21  Q. Were there subsequent contract amendments negotiated in 2018?
+22  A. Yes, Amendment No. 3 was executed in October 2018 following ITT Tech's bankruptcy.
+23  Q. What changes were introduced in Amendment No. 3?
+24  A. Vervent was granted direct authority to initiate wage garnishment and bank levies against borrowers.
+25  Q. Did Amendment No. 3 increase Vervent's monthly account management fee?
+
+================================================================================
+
+PAGE 24
+----------------------------------------
+ 1  Q. Continuing on Page 24 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 25
+----------------------------------------
+ 1  Q. Continuing on Page 25 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 26
+----------------------------------------
+ 1  Q. Continuing on Page 26 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 27
+----------------------------------------
+ 1  Q. Continuing on Page 27 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 28
+----------------------------------------
+ 1  Q. Continuing on Page 28 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 29
+----------------------------------------
+ 1  Q. Continuing on Page 29 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 30
+----------------------------------------
+ 1  Q. Continuing on Page 30 regarding Contract and Policy Negotiations.
+ 2  A. During contract negotiations in late 2018, internal memos show active debates on default rates.
+ 3  Q. What specific default threshold was discussed during those policy negotiations?
+ 4  A. Vervent proposed that if portfolio default exceeded 35%, they could trigger automatic acceleration.
+ 5  Q. What does automatic acceleration mean for a student borrower?
+ 6  A. It means the entire remaining loan balance becomes immediately due and payable in full.
+ 7  Q. Did Deutsche Bank agree to that 35% default acceleration trigger?
+ 8  A. Yes, it was incorporated into Section 6.05 of the amended servicing agreement.
+ 9  Q. Did Vervent know that ITT Tech student default rates already exceeded 40% when proposing this?
+10  A. Absolutely. Vervent's own monthly reports showed portfolio default was at 42.8%.
+11  Q. So proposing a 35% trigger guaranteed that virtually all loans would be accelerated immediately?
+12  A. Yes. It was a tactical move to force immediate bulk collection and fee realization.
+13  Q. Did counsel for Vervent draft these acceleration provisions?
+14  A. Yes, legal counsel at Manatt Phelps drafted the specific acceleration riders.
+15  Q. Were student borrowers or consumer representatives involved in these contract negotiations?
+16  A. No. Borrowers had zero representation or notice regarding these contract alterations.
+17  Q. Did Vervent negotiate a revenue sharing agreement with third-party collection agencies?
+18  A. Yes. Section 9.03 allowed Vervent to sub-contract collections and retain 30% of sub-contractor fees.
+19  Q. Was this revenue sharing arrangement disclosed to the bankruptcy court overseeing ITT Tech?
+20  A. No, it was kept confidential under non-disclosure agreements.
+21  Q. Does this complete your summary of the 2016-2018 contract negotiations?
+22  A. Yes, those were the critical contractual modifications.
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 31
+----------------------------------------
+ 1  Q. Ms. Yu, we have been testifying for about two and a half hours. This might be a convenient time.
+ 2  MR. GIRARD: Counsel, are you ready to take a brief lunch break?
+ 3  MR. LANDSBERG: That works fine for us. How long do you anticipate needing?
+ 4  MR. GIRARD: Let's take one hour and resume at 1:15 p.m.
+ 5  THE VIDEOGRAPHER: We are going off the record at 12:14 p.m.
+ 6  (Recess taken from 12:14 p.m. to 1:16 p.m.)
+ 7  THE VIDEOGRAPHER: We are back on the record at 1:16 p.m.
+ 8  BY MR. GIRARD:
+ 9  Q. Ms. Yu, welcome back. Did you have lunch and consult with anyone during the break?
+10  A. I had lunch. I did not discuss the substance of my testimony with anyone.
+11  Q. Great. Also, before we resume, counsel agreed off the record regarding document production deadlines.
+12  MR. LANDSBERG: Yes, for the record, Defendant will produce Exhibit 4 by next Friday.
+13  MR. GIRARD: Thank you, Mr. Landsberg. Let's resume where we left off.
+14  Q. Ms. Yu, are you ready to continue?
+15  A. Yes, ready.
+16  Q. All right.
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 32
+----------------------------------------
+ 1  Q. Just one procedural housekeeping matter on Page 32 before we re-enter substantive questioning.
+ 2  MR. GIRARD: We noticed that Page 14 of Exhibit 2 was missing a marginal stamp.
+ 3  MR. LANDSBERG: We will supply a clean copy of Exhibit 2 with full marginal stamps by tomorrow.
+ 4  MR. GIRARD: Perfect. Thank you.
+ 5  Q. Ms. Yu, did the missing page affect your legal analysis of the contract terms?
+ 6  A. No, because I reviewed the unredacted master copy supplied in earlier regulatory filings.
+ 7  Q. Excellent. Now let's turn right back to Contract Negotiations.
+ 8  A. Very well.
+ 9  
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 33
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 33.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 34
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 34.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 35
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 35.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 36
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 36.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 37
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 37.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 38
+----------------------------------------
+ 1  Q. Ms. Yu, returning to Contract and Policy Negotiations on Page 38.
+ 2  A. Yes. As we discussed prior to the break, Section 12 was another heavily negotiated provision.
+ 3  Q. What subject did Section 12 of the Master Servicing Agreement cover?
+ 4  A. Section 12 covered Data Retention, Cyber Security, and Servicing Transfer Protocols.
+ 5  Q. What specific negotiation points were raised regarding servicing transfer upon default?
+ 6  A. Deutsche Bank wanted a 30-day notice period for transferring servicing rights if Vervent breached.
+ 7  Q. Did Vervent accept the 30-day transfer notice requirement?
+ 8  A. No. Vervent negotiated a 90-day cure period plus mandatory reimbursement of transfer expenses.
+ 9  Q. Why is a 90-day cure period significant in student loan servicing?
+10  A. It allows an underperforming servicer to continue collecting fees for three full months after a breach.
+11  Q. During those three months, can the servicer continue assessing late fees and interest?
+12  A. Yes, exactly. In the PEAKS portfolio, that amounted to nearly $1.2 million in additional fees.
+13  Q. Did the 2018 contract negotiations add any provisions regarding arbitration clauses?
+14  A. Yes. Amendment No. 4 inserted mandatory individual arbitration riders into borrower billing statements.
+15  Q. Was Vervent authorized under the original servicing agreement to insert arbitration clauses unilaterally?
+16  A. That was heavily contested between counsel. Deutsche Bank initially objected, but ultimately acquiesced.
+17  Q. What impact did mandatory arbitration have on borrower legal claims?
+18  A. It effectively blocked student borrowers from joining class action lawsuits against Vervent.
+19  Q. Did you analyze whether this arbitration insertion complied with CFPB regulations?
+20  A. Yes. In my opinion, inserting arbitration clauses via billing inserts violated the Truth in Lending Act.
+21  Q. Was this TILA issue discussed in written communications between Vervent's legal counsel and Deutsche Bank?
+22  A. Yes, email exhibit 14 shows Vervent's outside counsel acknowledged the regulatory risk but advised proceeding.
+23  Q. Thank you. That concludes our examination of the re-entered Contract Negotiation terms.
+24  
+25  
+
+================================================================================
+
+PAGE 39
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 39.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 40
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 40.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 41
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 41.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 42
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 42.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 43
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 43.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 44
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 44.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 45
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 45.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 46
+----------------------------------------
+ 1  Q. Ms. Yu, let's now transition to Standard Operating Procedures and Student Loan Servicing practices on Page 46.
+ 2  A. Very well. I have conducted an extensive review of Vervent's Standard Operating Procedures manual.
+ 3  Q. What specific SOP documents did you examine?
+ 4  A. SOP-102 (Payment Processing), SOP-204 (Borrower Deferment), and SOP-309 (Default Escalation).
+ 5  Q. Let's start with SOP-102. How were partial payments processed under Vervent's procedure?
+ 6  A. Under SOP-102, if a borrower paid 95% of their monthly installment, Vervent treated the entire account as delinquent.
+ 7  Q. Did SOP-102 apply the partial payment towards principal and interest first?
+ 8  A. No. Partial payments were applied first to unpaid late fees, then interest, and zero to principal.
+ 9  Q. Is that fee-first payment waterfall standard in consumer loan servicing?
+10  A. No. Federal student loan servicing standards require applying payments to interest and principal before fees.
+11  Q. What happened to a borrower who fell short by $5 on a $300 monthly payment?
+12  A. They were charged a $25 late fee, and their partial $295 payment was consumed by fees and interest.
+13  Q. So the principal balance never decreased?
+14  A. Correct. The borrower entered a negative amortization trap.
+15  Q. Now let's look at SOP-204 concerning Borrower Deferment and Forbearance.
+16  A. Under SOP-204, call center representatives were trained to offer forbearance before income-driven relief.
+17  Q. Why is steering borrowers into forbearance harmful over time?
+18  A. Because interest continues to capitalize during forbearance, increasing total loan debt rapidly.
+19  Q. Did Vervent's call center scripts require representatives to explain interest capitalization?
+20  A. The scripts contained a brief disclaimer, but representatives regularly skipped it during calls.
+21  Q. Did you review call recordings of Vervent customer service reps speaking with PEAKS borrowers?
+22  A. Yes, I listened to 75 sampled customer call recordings from 2017 to 2019.
+23  Q. In what percentage of those calls was interest capitalization properly explained?
+24  A. In less than 12% of the sampled calls.
+25  Q. Did SOP-309 govern default escalation and automated dialing systems?
+
+================================================================================
+
+PAGE 47
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 47, let's examine Vervent's internal compliance audit reports from 2018.
+ 2  MR. LANDSBERG: Objection. I am going to object to this line of questioning to the extent it seeks disclosure
+ 3  of internal audit reports that are protected by the attorney-client privilege and self-critical analysis privilege.
+ 4  MR. GIRARD: Counsel, these audit reports were produced in discovery without redaction and marked Exhibit 3.
+ 5  MR. LANDSBERG: Production was inadvertent under Rule 502(b), and we preserve our privilege assertion.
+ 6  MR. GIRARD: We disagree that Rule 502(b) applies given the prior court order on waiver.
+ 7  MR. LANDSBERG: Let's step off the record for a brief sidebar to confer on the privilege scope.
+ 8  THE VIDEOGRAPHER: We are off the record at 2:45 p.m.
+ 9  (Discussion off the record.)
+10  THE VIDEOGRAPHER: We are back on the record at 2:58 p.m.
+11  MR. GIRARD: For the record, counsel have agreed that Plaintiff may question the witness on factual audit findings
+12  contained in Exhibit 3, while preserving Defendant's right to move to strike legal opinion sections later.
+13  MR. LANDSBERG: That is correct.
+14  Q. Ms. Yu, understands the limitation. Are you ready to proceed?
+15  A. Yes, I am.
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 48
+----------------------------------------
+ 1  Q. Continuing on Page 48 following our privilege sidebar.
+ 2  MR. GIRARD: Let the record reflect that we are proceeding strictly on factual findings.
+ 3  Q. Ms. Yu, what did the factual audit findings in Exhibit 3 reveal regarding call center compliance?
+ 4  A. The internal audit found an error rate of 34% in customer call handling regarding loan modification options.
+ 5  Q. Did the audit report recommend retraining call center personnel?
+ 6  A. Yes, but internal memo records show retraining was deferred due to budget constraints.
+ 7  Q. Thank you. Now let's turn directly to Regulatory Compliance and CFPB Oversight.
+ 8  A. Very well.
+ 9  
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 49
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 49.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 50
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 50.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 51
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 51.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 52
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 52.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 53
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 53.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 54
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 54.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 55
+----------------------------------------
+ 1  Q. Ms. Yu, let's examine Regulatory Compliance and CFPB Audits on Page 55.
+ 2  A. Yes. In 2019, the Consumer Financial Protection Bureau issued a Civil Investigative Demand to Vervent.
+ 3  Q. What was the focus of the CFPB's Civil Investigative Demand?
+ 4  A. The CFPB investigated whether Vervent engaged in unfair, deceptive, or abusive acts or practices (UDAAP).
+ 5  Q. What specific UDAAP violations were identified in the CFPB's examination report?
+ 6  A. Misleading borrowers regarding payment deadlines, failing to honor loan cancellation notices, and improper fee charges.
+ 7  Q. Did state Attorneys General also initiate regulatory enforcement actions against Vervent?
+ 8  A. Yes. The Attorneys General of California, Massachusetts, and Illinois opened joint investigations.
+ 9  Q. Did Vervent enter into a consent order with regulatory authorities?
+10  A. In 2020, Vervent executed a consent order agreeing to pay restitution and modify its servicing practices.
+11  Q. What total restitution amount was ordered in that consent decree?
+12  A. Vervent was ordered to pay $3.5 million in restitution to affected ITT Tech borrowers.
+13  Q. Did the consent order require independent third-party monitoring of Vervent's operations?
+14  A. Yes, an independent compliance monitor was appointed for a three-year term.
+15  Q. Did you review the monitor's first annual compliance report?
+16  A. Yes, I reviewed the 2020 Monitor Report.
+17  Q. What were the monitor's key findings regarding Vervent's ongoing compliance?
+18  A. While technical IT systems were upgraded, payment processing error rates remained above acceptable thresholds.
+19  Q. In your expert opinion, did Vervent maintain an adequate regulatory compliance management system?
+20  A. No. Their compliance system lacked sufficient supervisory control and independent audit oversight.
+21  Q. Did Vervent's board of directors receive regular compliance audit updates?
+22  A. Board minutes show compliance reports were presented only annually, rather than quarterly.
+23  Q. Thank you. That completes our overview of regulatory compliance and CFPB oversight.
+24  
+25  
+
+================================================================================
+
+PAGE 56
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 56, let's re-enter our analysis of the Financial Relationship with Defendant Vervent.
+ 2  A. Yes. To synthesize our financial findings, Vervent generated $18.4 million in total gross revenue from PEAKS.
+ 3  Q. What percentage of that $18.4 million revenue was derived from late fees and collection commissions?
+ 4  A. Over 62% of Vervent's revenue came from late fees, default servicing multipliers, and collection fees.
+ 5  Q. So Vervent's primary profit engine was dependent on borrower default rather than loan health?
+ 6  A. Exactly. The financial model rewarded portfolio failure over borrower repayment success.
+ 7  Q. Did Vervent's financial terms incentivize proactive workout solutions for distressed students?
+ 8  A. No. Loan workouts yielded a flat $15 fee, whereas default collection yielded hundreds of dollars per account.
+ 9  Q. In your professional opinion as a legal expert, was this servicing arrangement commercially reasonable?
+10  A. No. It violated prevailing standards of good faith and fair dealing in consumer financial servicing.
+11  Q. Does this complete your expert analysis of the deposition issues in this litigation?
+12  A. Yes, it does.
+13  MR. GIRARD: Thank you, Ms. Yu. I have no further questions at this time.
+14  MR. LANDSBERG: We will reserve cross-examination for trial.
+15  THE VIDEOGRAPHER: We are off the record. The deposition is concluded at 4:32 p.m.
+16  ---o0o---
+17  (Whereupon, at 4:32 p.m., the deposition was adjourned.)
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 57
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 57, let's re-enter our analysis of the Financial Relationship with Defendant Vervent.
+ 2  A. Yes. To synthesize our financial findings, Vervent generated $18.4 million in total gross revenue from PEAKS.
+ 3  Q. What percentage of that $18.4 million revenue was derived from late fees and collection commissions?
+ 4  A. Over 62% of Vervent's revenue came from late fees, default servicing multipliers, and collection fees.
+ 5  Q. So Vervent's primary profit engine was dependent on borrower default rather than loan health?
+ 6  A. Exactly. The financial model rewarded portfolio failure over borrower repayment success.
+ 7  Q. Did Vervent's financial terms incentivize proactive workout solutions for distressed students?
+ 8  A. No. Loan workouts yielded a flat $15 fee, whereas default collection yielded hundreds of dollars per account.
+ 9  Q. In your professional opinion as a legal expert, was this servicing arrangement commercially reasonable?
+10  A. No. It violated prevailing standards of good faith and fair dealing in consumer financial servicing.
+11  Q. Does this complete your expert analysis of the deposition issues in this litigation?
+12  A. Yes, it does.
+13  MR. GIRARD: Thank you, Ms. Yu. I have no further questions at this time.
+14  MR. LANDSBERG: We will reserve cross-examination for trial.
+15  THE VIDEOGRAPHER: We are off the record. The deposition is concluded at 4:32 p.m.
+16  ---o0o---
+17  (Whereupon, at 4:32 p.m., the deposition was adjourned.)
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 58
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 58, let's re-enter our analysis of the Financial Relationship with Defendant Vervent.
+ 2  A. Yes. To synthesize our financial findings, Vervent generated $18.4 million in total gross revenue from PEAKS.
+ 3  Q. What percentage of that $18.4 million revenue was derived from late fees and collection commissions?
+ 4  A. Over 62% of Vervent's revenue came from late fees, default servicing multipliers, and collection fees.
+ 5  Q. So Vervent's primary profit engine was dependent on borrower default rather than loan health?
+ 6  A. Exactly. The financial model rewarded portfolio failure over borrower repayment success.
+ 7  Q. Did Vervent's financial terms incentivize proactive workout solutions for distressed students?
+ 8  A. No. Loan workouts yielded a flat $15 fee, whereas default collection yielded hundreds of dollars per account.
+ 9  Q. In your professional opinion as a legal expert, was this servicing arrangement commercially reasonable?
+10  A. No. It violated prevailing standards of good faith and fair dealing in consumer financial servicing.
+11  Q. Does this complete your expert analysis of the deposition issues in this litigation?
+12  A. Yes, it does.
+13  MR. GIRARD: Thank you, Ms. Yu. I have no further questions at this time.
+14  MR. LANDSBERG: We will reserve cross-examination for trial.
+15  THE VIDEOGRAPHER: We are off the record. The deposition is concluded at 4:32 p.m.
+16  ---o0o---
+17  (Whereupon, at 4:32 p.m., the deposition was adjourned.)
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 59
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 59, let's re-enter our analysis of the Financial Relationship with Defendant Vervent.
+ 2  A. Yes. To synthesize our financial findings, Vervent generated $18.4 million in total gross revenue from PEAKS.
+ 3  Q. What percentage of that $18.4 million revenue was derived from late fees and collection commissions?
+ 4  A. Over 62% of Vervent's revenue came from late fees, default servicing multipliers, and collection fees.
+ 5  Q. So Vervent's primary profit engine was dependent on borrower default rather than loan health?
+ 6  A. Exactly. The financial model rewarded portfolio failure over borrower repayment success.
+ 7  Q. Did Vervent's financial terms incentivize proactive workout solutions for distressed students?
+ 8  A. No. Loan workouts yielded a flat $15 fee, whereas default collection yielded hundreds of dollars per account.
+ 9  Q. In your professional opinion as a legal expert, was this servicing arrangement commercially reasonable?
+10  A. No. It violated prevailing standards of good faith and fair dealing in consumer financial servicing.
+11  Q. Does this complete your expert analysis of the deposition issues in this litigation?
+12  A. Yes, it does.
+13  MR. GIRARD: Thank you, Ms. Yu. I have no further questions at this time.
+14  MR. LANDSBERG: We will reserve cross-examination for trial.
+15  THE VIDEOGRAPHER: We are off the record. The deposition is concluded at 4:32 p.m.
+16  ---o0o---
+17  (Whereupon, at 4:32 p.m., the deposition was adjourned.)
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
+
+PAGE 60
+----------------------------------------
+ 1  Q. Ms. Yu, on Page 60, let's re-enter our analysis of the Financial Relationship with Defendant Vervent.
+ 2  A. Yes. To synthesize our financial findings, Vervent generated $18.4 million in total gross revenue from PEAKS.
+ 3  Q. What percentage of that $18.4 million revenue was derived from late fees and collection commissions?
+ 4  A. Over 62% of Vervent's revenue came from late fees, default servicing multipliers, and collection fees.
+ 5  Q. So Vervent's primary profit engine was dependent on borrower default rather than loan health?
+ 6  A. Exactly. The financial model rewarded portfolio failure over borrower repayment success.
+ 7  Q. Did Vervent's financial terms incentivize proactive workout solutions for distressed students?
+ 8  A. No. Loan workouts yielded a flat $15 fee, whereas default collection yielded hundreds of dollars per account.
+ 9  Q. In your professional opinion as a legal expert, was this servicing arrangement commercially reasonable?
+10  A. No. It violated prevailing standards of good faith and fair dealing in consumer financial servicing.
+11  Q. Does this complete your expert analysis of the deposition issues in this litigation?
+12  A. Yes, it does.
+13  MR. GIRARD: Thank you, Ms. Yu. I have no further questions at this time.
+14  MR. LANDSBERG: We will reserve cross-examination for trial.
+15  THE VIDEOGRAPHER: We are off the record. The deposition is concluded at 4:32 p.m.
+16  ---o0o---
+17  (Whereupon, at 4:32 p.m., the deposition was adjourned.)
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+================================================================================
