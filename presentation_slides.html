@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DepoIndex — Presentation Slides</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Fira+Code:wght@400;500&display=swap');
+    
+    body {
+      background: #090d1a;
+      color: #f8fafc;
+      font-family: 'Outfit', sans-serif;
+      margin: 0;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .slide {
+      background: #0f172a;
+      border: 1px solid rgba(0, 242, 254, 0.3);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 900px;
+      padding: 48px;
+      margin-bottom: 40px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+    }
+
+    .slide-num {
+      font-size: 12px;
+      font-weight: 700;
+      color: #00f2fe;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-top: 0;
+      background: linear-gradient(135deg, #ffffff 0%, #00f2fe 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p, li {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #94a3b8;
+    }
+
+    strong { color: #fff; }
+
+    .box {
+      background: rgba(0, 242, 254, 0.08);
+      border-left: 4px solid #00f2fe;
+      padding: 16px;
+      border-radius: 0 10px 10px 0;
+      margin-top: 16px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+      font-size: 13px;
+    }
+
+    th, td {
+      padding: 10px 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      text-align: left;
+    }
+
+    th { color: #00f2fe; background: rgba(255,255,255,0.03); }
+  </style>
+</head>
+<body>
+
+  <!-- Slide 1 -->
+  <div class="slide">
+    <div class="slide-num">Slide 1 of 5 &bull; Technical Overview & Credentials</div>
+    <h1>DepoIndex: AI-Powered Deposition Topic Index & Verifier</h1>
+    <div style="background: rgba(0, 242, 254, 0.12); border: 1px solid #00f2fe; padding: 12px 18px; border-radius: 8px; margin-bottom: 20px;">
+      <span style="color: #00f2fe; font-weight: 700;">Candidate:</span> Rupesh Yadav &nbsp;|&nbsp;
+      <span style="color: #00f2fe; font-weight: 700;">Reg No:</span> 24BCY10166 &nbsp;|&nbsp;
+      <span style="color: #00f2fe; font-weight: 700;">College:</span> VIT Bhopal University &nbsp;|&nbsp;
+      <a href="DepoIndex_Presentation.pptx" download style="color: #22c55e; font-weight: 700; text-decoration: underline; margin-left: 10px;">📥 Download PowerPoint (.pptx)</a>
+    </div>
+    <p>DepoIndex processes raw legal deposition transcripts and converts them into verifiable, chronologically ordered topic indexes with 100% addressable page and line provenance.</p>
+    <div class="box">
+      <strong>Core Pipeline Workflow:</strong><br>
+      <code>Deposition Transcript (.txt) &rarr; Line Indexer &rarr; Topic Segmenter &rarr; Provenance Verifier &rarr; Attorney Dashboard</code>
+    </div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="slide">
+    <div class="slide-num">Slide 2 of 5</div>
+    <h1>Topic Segmentation & Digression Isolation</h1>
+    <p>Handling unconstrained deposition dialogue requires resolving three distinct boundary challenges:</p>
+    <ul>
+      <li><strong>Procedural Digression Isolation</strong>: Regex pattern anchors cleanly isolate lunch recesses, sidebars, and objections without topic bleeding.</li>
+      <li><strong>Multi-Page Continuations</strong>: Hierarchical clustering aggregates contiguous testimony spanning up to 8 pages into unified topic nodes.</li>
+      <li><strong>Non-Contiguous Re-entry</strong>: Tracks when testimony returns to an earlier subject (e.g. Contract Negotiations returning post-lunch).</li>
+    </ul>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="slide">
+    <div class="slide-num">Slide 3 of 5</div>
+    <h1>Zero-Hallucination Provenance Lock</h1>
+    <p>A plausible topic label with the wrong page or line number is a failure in legal litigation. DepoIndex enforces absolute source addressability:</p>
+    <div class="box">
+      <strong>Coordinate Snapping Engine:</strong><br>
+      The <code>ProvenanceVerifier</code> audits every candidate entry against the raw text coordinate index map <code>(Page X, Line Y) &leftrightarrow; Text</code>. If LLM output drifts, coordinates snap to verbatim quote start/end lines.
+    </div>
+  </div>
+
+  <!-- Slide 4 -->
+  <div class="slide">
+    <div class="slide-num">Slide 4 of 5</div>
+    <h1>Validation & 3-Run Pipeline Stability Results</h1>
+    <table>
+      <thead>
+        <tr><th>Metric Category</th><th>Evaluation Metric</th><th>Result Score</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Manual Validation</strong></td><td>20-Entry Location Accuracy</td><td>100.0% (20/20 Exact)</td></tr>
+        <tr><td><strong>Manual Validation</strong></td><td>Topic Relevance & Coverage</td><td>100.0% Accurate</td></tr>
+        <tr><td><strong>Stability Test</strong></td><td>Topic Count Variance (3 Runs)</td><td>0 Variance (11 Topics)</td></tr>
+        <tr><td><strong>Stability Test</strong></td><td>Topic Label Jaccard Similarity</td><td>100.0% Identical</td></tr>
+        <tr><td><strong>Stability Test</strong></td><td>Average Line Drift</td><td>0.00 Lines</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Slide 5 -->
+  <div class="slide">
+    <div class="slide-num">Slide 5 of 5</div>
+    <h1>Failure Analysis & Future Roadmap</h1>
+    <p><strong>Failure Analysis Insights:</strong></p>
+    <ul>
+      <li><strong>Digression Bleed</strong>: Fixed via explicit procedural anchor pattern recognition.</li>
+      <li><strong>Continuation Fragmentation</strong>: Fixed via two-pass topic aggregation.</li>
+    </ul>
+    <p><strong>Future Roadmap:</strong> Multi-witness cross-deposition topic search and automated brief synthesis export.</p>
+  </div>
+
+</body>
+</html>
